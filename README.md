@@ -24,10 +24,10 @@ MongoDB and find mongod accordingly.
 
 * Open the terminal in the folder where you have cloned Pet-Find and run the following command.
 ```
-nodemon app.js
+node app.js
 ```
-Now you are completely ready to start **Pet-Find** Go to your browser and search **http://localhost:3000/**
-This will direct you to the Index Page of Pet-Match
+Now you are completely ready to start **Pet-Find** Go to your browser and visit **http://localhost:3000/**
+This will direct you to the Index Page of Pet-Find
 
 ## Built With
 * For frontend- **Bootstrap V3.3.7 - CSS - Semantic UI**
