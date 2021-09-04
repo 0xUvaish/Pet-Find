@@ -36,5 +36,4 @@ This will direct you to the Index Page of Pet-Find
 
 ## Developer
 * **Mohd Uvaish Siddiqui** 
-<br>   [Github](https://github.com/0xUvaish)
 <br>   [Linkedin](https://www.linkedin.com/in/usvr/)
